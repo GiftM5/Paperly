@@ -125,4 +125,3 @@ MIT License – Free to build, learn, and extend 🚀.
 
 ---
 
-👉 Do you want me to also make a **fancy ASCII logo** for Paperly (for the README header), or keep it minimal & aesthetic like this?
