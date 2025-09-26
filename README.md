@@ -2,8 +2,6 @@
 
 *Let your notes write themselves.*
 
-<img src="https://img.icons8.com/external-flat-juicy-fish/200/external-notebook-back-to-school-flat-flat-juicy-fish.png" width="120" align="right"/>
-
 Paperly is an **AI-powered digital notebook** that makes note-taking **beautiful, smart, and fun**.
 Whether you’re in a **classroom, meeting, or journaling**, Paperly listens, writes, and organizes your thoughts with a **visible animated pen** ✍️.
 
