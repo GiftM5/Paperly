@@ -1,6 +1,13 @@
-# ✨ Paperly
+██████╗  █████╗ ██████╗ ███████╗██████╗ ██╗  ██╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██║  ██║██║ ██╔╝
+██████╔╝███████║██████╔╝█████╗  ██████╔╝███████║█████╔╝ 
+██╔═══╝ ██╔══██║██╔══██╗██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗ 
+██║     ██║  ██║██║  ██║███████╗██║     ██║  ██║██║  ██╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
+
 
 *Let your notes write themselves.*
+
 
 Paperly is an **AI-powered digital notebook** that makes note-taking **beautiful, smart, and fun**.
 Whether you’re in a **classroom, meeting, or journaling**, Paperly listens, writes, and organizes your thoughts with a **visible animated pen** ✍️.
